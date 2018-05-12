@@ -7,13 +7,13 @@ contributor:
     aliases:
     - Relyea, C. M. (Charles Mark)
     - Relyea, Charles M.
-    birthdate: &id001 1863
+    birthdate: 1863
     deathdate: 1932
     gutenberg_agent_id: '8637'
     url: http://www.gutenberg.org/2009/agents/8637
   translator:
     agent_name: Jepson, Edgar
-    birthdate: *id001
+    birthdate: 1863
     deathdate: 1938
     gutenberg_agent_id: '1357'
     url: http://www.gutenberg.org/2009/agents/1357
@@ -30,6 +30,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/112
     wikipedia: http://en.wikipedia.org/wiki/Gaston_Leroux
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/46343#The-Man-With-the-Black-Feather
 gutenberg_issued: '2014-07-20'
 gutenberg_type: Text
 identifiers:
