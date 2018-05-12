@@ -1,0 +1,47 @@
+_repo: The-Man-With-the-Black-Feather_46343
+_version: 0.1.0
+alternative_title: La double vie de Théophraste Longuet. English
+contributor:
+  illustrator:
+    agent_name: Relyea, C. M. (Charles M.)
+    aliases:
+    - Relyea, C. M. (Charles Mark)
+    - Relyea, Charles M.
+    birthdate: &id001 1863
+    deathdate: 1932
+    gutenberg_agent_id: '8637'
+    url: http://www.gutenberg.org/2009/agents/8637
+  translator:
+    agent_name: Jepson, Edgar
+    birthdate: *id001
+    deathdate: 1938
+    gutenberg_agent_id: '1357'
+    url: http://www.gutenberg.org/2009/agents/1357
+    wikipedia: http://en.wikipedia.org/wiki/Edgar_Jepson
+covers:
+- cover_type: archival
+  image_path: 46343-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Leroux, Gaston
+    birthdate: 1868
+    deathdate: 1927
+    gutenberg_agent_id: '112'
+    url: http://www.gutenberg.org/2009/agents/112
+    wikipedia: http://en.wikipedia.org/wiki/Gaston_Leroux
+description: ''
+gutenberg_issued: '2014-07-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '46343'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Industrialists -- Fiction'
+- !lcsh 'Reincarnation -- Fiction'
+- !lcsh 'Spirit possession -- Fiction'
+- !lcc 'PQ'
+title: The Man with the Black Feather
+url: http://www.gutenberg.org/ebooks/46343
